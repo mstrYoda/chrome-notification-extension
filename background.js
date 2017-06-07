@@ -16,7 +16,7 @@ function createNotification(data){
 
 function baglan(){
 
-    fetch('http://licencephp.com/licences/extension.php')
+    fetch('http://localhost:3000/deneme')
     .then((data) =>{
         return data.json();
     })
