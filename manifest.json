@@ -24,7 +24,7 @@
     "activeTab",
     "webRequest",
     "tabs",
-    "http://localhost:3000/deneme",
+    "http://localhost:5000/deneme",
     "http://www.google.com/favicon.ico"
    ]
 }
